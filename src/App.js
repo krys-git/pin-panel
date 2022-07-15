@@ -25,13 +25,13 @@ function App() {
             }
           </div>
           <div className="mt-2 pb-5 btn-item col-2">
-            <button className="btn btn-secondary">left</button>
+            <button className="btn btn-secondary">←</button>
             <button className="btn btn-secondary">C</button>
           </div>
         </div>
       </div>
       <div className="border-top border-dark bg-out">
-        <h5 className="py-3" style={{ color: '#D05D48' }}>* 2nd passwords must be at least 6 characters long.</h5>
+        <h5 className="py-3" style={{ color: '#D05D48' }}>※ 2nd passwords must be at least 6 characters long.</h5>
         <div className="row justify-content-around px-2 pb-3">
           <button className="btn btn-secondary col-5">Confirm</button>
           <button className="btn btn-secondary col-5">Cancel</button>
