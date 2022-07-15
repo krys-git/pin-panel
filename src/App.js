@@ -10,7 +10,7 @@ function App() {
   return (
     <form className='border border-dark container form-body rounded text-center p-0'>
       <div className="border-bottom border-dark py-3 bg-out">
-        <h3 className="mb-0" style={{ color: '#FFEDD4' }}>Please enter the secondary password.</h3>
+        <h3 className="mb-0" style={{ color: '#FFEDD4' }}>Please enter the 2nd password.</h3>
       </div>
       <div className="form-group px-2 pt-5 bd-body">
         <input type="password" name="name" id="name" className="form-control w-100" />
