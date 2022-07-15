@@ -31,7 +31,7 @@ function App() {
         </div>
       </div>
       <div className="border-top border-dark bg-out">
-        <h5 className="py-3" style={{ color: '#D05D48' }}>※ 2nd passwords must be at most 6 characters long.</h5>
+        <h5 className="py-3" style={{ color: '#D05D48' }}>※ 2nd passwords must be at least 6 characters long.</h5>
         <div className="row justify-content-around px-2 pb-3">
           <button className="btn btn-secondary col-5">Confirm</button>
           <button className="btn btn-secondary col-5">Cancel</button>
